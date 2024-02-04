@@ -15,7 +15,7 @@ export default function Card({
     <div
       className={twmerge(
         className ?? "",
-        "flex justify-center items-center bg-gray-200 rounded-xl h-[20vh] sm:h-[25vh]"
+        "flex justify-center items-center bg-gray-200 rounded-xl h-[20vh] sm:h-[30vh]"
       )}
       style={{ aspectRatio: "4/2" }}
     >

@@ -10,7 +10,7 @@ export default function Footer({ className }: { className?: string }) {
     >
       <div className="text-left flex flex-col justify-start items-start gap-2">
         <h1 className="text-3xl sm:text-7xl font-bold">aBit</h1>
-        <p className="text-lg sm:text-xl">
+        <p className="text-md sm:text-xl">
           Changing the way in which creators and fans interact.
         </p>
       </div>
